@@ -1,2 +1,2 @@
 # website-deployment
-Repo to check-in the files doe website deployment project
+Repo to check-in the files for website deployment project
